@@ -1,0 +1,26 @@
+.cal{
+    position: absolute;
+    top:250px;
+    left: 600px;
+    padding: 50px;
+    
+}
+.number{
+    font-size: xx-large;
+    min-width: 40px;
+    display: inline-block;
+    width: 80px;
+   
+}
+button{
+    background-color:#1c374f;
+    color: white;
+}
+p{
+    color: black;
+    position: absolute;
+}
+#addition{
+    position: absolute;
+    left:30px ;
+}
